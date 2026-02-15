@@ -1,4 +1,4 @@
-# Project 2: TCAD ML Surrogate Model
+#TCAD ML Surrogate Model
 
 This project builds a surrogate regression model from TCAD simulation runs to accelerate design-space exploration.
 
