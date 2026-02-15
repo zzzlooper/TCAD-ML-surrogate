@@ -1,0 +1,16 @@
+feature,permutation_importance,model
+gate_length_nm,0.5556818345566752,linear_regression
+voltage,0.3643335197140608,linear_regression
+temperature,0.17235588605674712,linear_regression
+doping_cm3,0.010155350118955183,linear_regression
+oxide_thickness_nm,0.004844827998575121,linear_regression
+gate_length_nm,0.5438751795106106,mlp
+voltage,0.3521058134697222,mlp
+temperature,0.16347961429829008,mlp
+doping_cm3,0.008507439938432403,mlp
+oxide_thickness_nm,0.0032722225136515132,mlp
+gate_length_nm,0.5343697397458146,random_forest
+voltage,0.3394937807751791,random_forest
+temperature,0.14453380772021035,random_forest
+doping_cm3,0.001903705391061984,random_forest
+oxide_thickness_nm,0.0010157805808961276,random_forest
