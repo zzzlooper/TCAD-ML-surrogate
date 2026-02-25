@@ -59,6 +59,21 @@ All artifacts are written under the folder passed to `--output-dir` (for example
 - Plots in `<output-dir>/plots/`
 - `<output-dir>/summary.md`
 
+## Sample output plots
+These are example diagnostics generated in demo mode (`outputs_demo/plots`):
+
+**Predicted vs true (MLP)**
+
+![Predicted vs true for MLP](outputs_demo/plots/pred_vs_true_mlp.png)
+
+**Error distribution (Random Forest)**
+
+![Error distribution for Random Forest](outputs_demo/plots/error_dist_random_forest.png)
+
+**Binned MAE by voltage (Random Forest)**
+
+![Binned MAE by voltage for Random Forest](outputs_demo/plots/breakdown_random_forest_voltage.png)
+
 ## Notes for engineering credibility
 Use your real simulation dataset and interpret:
 - Which parameters drive model behavior (importance)
